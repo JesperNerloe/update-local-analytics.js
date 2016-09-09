@@ -36,7 +36,9 @@
 	#	To do:		1) Replace the "CURLOPT_USERAGENT" value with your own user-agent name (a 
 	#			   part of the "CRAWLER CONFIGURATION").
 	#			2) Replace "// ERROR HANDLING" with error handling of your own.
-	#			3) Set up a cron job to run the script on daily basis to keep analytics.js 
+	#			3) Replace "http://www.google-analytics.com/analytics.js" with 
+	#			   "http://[your-domain].com/analytics.js" in the Google Analytics tracking code.
+	#			4) Set up a cron job to run the script on daily basis to keep analytics.js 
 	#			   updated and in place.
 	#
 	#	Bonus:		Now, go get that 100/100 score in Google PageSpeed Insights ;-)
