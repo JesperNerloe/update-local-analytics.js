@@ -35,7 +35,7 @@
 	#
 	#	To do:		1) Replace the "CURLOPT_USERAGENT" value with your own user-agent name 
 	#			   (line 131 in "CRAWLER CONFIGURATION").
-	#			2) Replace "// ERROR HANDLING" at line 109 and 180 with error handling of 
+	#			2) Replace "// ERROR HANDLING" at line 108 and 179 with error handling of 
 	#			   your own.
 	#			3) Replace "//www.google-analytics.com/analytics.js" with 
 	#			   "//[your-domain].com/analytics.js" in the Google Analytics tracking code.
