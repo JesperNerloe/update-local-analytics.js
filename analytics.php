@@ -33,8 +33,8 @@
 	#			javascript) and saves it as a local file (default destination: the root 
 	#			directory of your website.)
 	#
-	#	To do:		1) Replace the "CURLOPT_USERAGENT" value with your own user-agent name (a 
-	#			   part of the "CRAWLER CONFIGURATION").
+	#	To do:		1) Replace the "CURLOPT_USERAGENT" value with your own user-agent name 
+	#			   (line 130 in "CRAWLER CONFIGURATION").
 	#			2) Replace "// ERROR HANDLING" with error handling of your own.
 	#			3) Replace "//www.google-analytics.com/analytics.js" with 
 	#			   "//[your-domain].com/analytics.js" in the Google Analytics tracking code.
